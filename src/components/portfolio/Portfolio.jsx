@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG from '../../assets/portfolio1.png'
 const Portfolio = () => {
   return (
-    <section id='portfolio'>
+    <section id='portfolios'>
       <h5>My Recent Wokr</h5>
       <h2>Portfolio</h2>
 
