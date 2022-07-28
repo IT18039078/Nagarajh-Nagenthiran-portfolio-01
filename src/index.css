@@ -19,12 +19,26 @@ website  */
 /* these variable particularly holding colors as values, that we can 
 use over in any  where in our applications - this because we can change colors easily without wasting time*/
 :root{
+   
+
+    /* New them 1 - RED  */
+    /* --colo-bg: #33030D;
+    --color-bg-variant: #5A082D;
+    --color-primary: #FF004D;
+    --color-primary-variant: rgba(90, 8, 45, 0.4);
+    --color-white: #fff;
+    --color-light: rgba(255, 255, 255, 0.6);  */
+
+  
+
+    /* /* old them - BLUE  */
     --colo-bg: #1f1f38;
     --color-bg-variant: #2c2c6c;
     --color-primary: #4db5ff;
     --color-primary-variant: rgba(77, 181, 255, 0.4);
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
+   
 
 /* variable for container width for various type of devices*/
     --container-width-lg: 75%;

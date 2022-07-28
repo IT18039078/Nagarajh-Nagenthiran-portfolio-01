@@ -20,17 +20,16 @@
 }
 
 .about__me-image{
-    margin-top: -70px;
+    margin-top: -40px;
+    height: 140%;
     margin-left: 5px;
     border-radius: 2rem;
-    height:auto;
     overflow: hidden;
-    transform: rotate(10deg);
     transition: var(--transition);
 }
 
 .about__me-image:hover{
-    transform: rotate(0)
+    transform: rotate(10)
 }
 
 .about__cards{
