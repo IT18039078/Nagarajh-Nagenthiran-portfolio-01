@@ -1,0 +1,3 @@
+To deploy the site used this site for help - and its fully working solution
+
+https://www.c-sharpcorner.com/article/how-to-deploy-react-application-on-github-pages/
