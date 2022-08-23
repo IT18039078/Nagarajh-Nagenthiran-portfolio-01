@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Nagarajh-Nagenthiran-portfolio-01/static/css/main.0f5d0010.css",
-    "main.js": "/Nagarajh-Nagenthiran-portfolio-01/static/js/main.0b39177f.js",
+    "main.js": "/Nagarajh-Nagenthiran-portfolio-01/static/js/main.e97ed94b.js",
     "static/media/p5.png": "/Nagarajh-Nagenthiran-portfolio-01/static/media/p5.f684e66bc2df22c240a2.png",
     "static/media/p6.png": "/Nagarajh-Nagenthiran-portfolio-01/static/media/p6.0d5952938fe517ddb1e7.png",
     "static/media/nagenthiran.pdf": "/Nagarajh-Nagenthiran-portfolio-01/static/media/nagenthiran.9349202fffe2f67d7dcd.pdf",
@@ -13,10 +13,10 @@
     "static/media/lux.jpeg": "/Nagarajh-Nagenthiran-portfolio-01/static/media/lux.61469d434aaf3d2c2819.jpeg",
     "index.html": "/Nagarajh-Nagenthiran-portfolio-01/index.html",
     "main.0f5d0010.css.map": "/Nagarajh-Nagenthiran-portfolio-01/static/css/main.0f5d0010.css.map",
-    "main.0b39177f.js.map": "/Nagarajh-Nagenthiran-portfolio-01/static/js/main.0b39177f.js.map"
+    "main.e97ed94b.js.map": "/Nagarajh-Nagenthiran-portfolio-01/static/js/main.e97ed94b.js.map"
   },
   "entrypoints": [
     "static/css/main.0f5d0010.css",
-    "static/js/main.0b39177f.js"
+    "static/js/main.e97ed94b.js"
   ]
 }
